@@ -1,0 +1,6 @@
+help/
+class_copy.py
+*.pyc
+*.pkl
+*.zip
+data/*
